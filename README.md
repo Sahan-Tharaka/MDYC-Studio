@@ -1,6 +1,6 @@
-# MBDC Studio — Digital Marketing Portfolio
+# MDYC Studio — Digital Marketing Portfolio
 
-Jakarta-based creative studio portfolio specializing in UI design, web development, and motion ads.
+Sri Lanka-based marketing studio portfolio using AI tools to deliver faster campaigns, smarter targeting, and measurable results for growing brands.
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ digital-marketing-portfolio/
 ## Sections
 
 - **Hero** — Headline, CTA
-- **Services** — UI Design, Web Dev, Web Apps, HTML5 Animation
+- **Services** — Social Media Marketing, Paid Ads, AI Content, Performance Analytics
 - **Selected Work** — Portfolio grid
 - **Pricing** — Tier 1, 2, 3 packages
 - **About** — Studio story, leadership

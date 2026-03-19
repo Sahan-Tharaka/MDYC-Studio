@@ -1,7 +1,7 @@
 {
   "name": "digital-marketing-portfolio",
   "version": "1.0.0",
-  "description": "MBDC Studio — Jakarta-based digital product agency portfolio",
+  "description": "MDYC Studio — Sri Lanka-based AI-powered digital marketing agency portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
