@@ -42,6 +42,8 @@ digital-marketing-portfolio/
 ├── index.html      # Main page
 ├── package.json
 ├── vite.config.js
+├── public/
+│   └── favicon.svg # M logo favicon
 └── README.md
 ```
 
